@@ -1,0 +1,8 @@
+//
+// Created by Izzy Avilez on 2/12/20.
+//
+
+#ifndef GITHUBTEST_WONDERFULCLASS_H
+#define GITHUBTEST_WONDERFULCLASS_H
+
+#endif //GITHUBTEST_WONDERFULCLASS_H

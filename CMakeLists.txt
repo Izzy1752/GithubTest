@@ -3,4 +3,4 @@ project(GithubTest)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(GithubTest main.cpp)
+add_executable(GithubTest main.cpp wonderfulClass.cpp wonderfulClass.h)
